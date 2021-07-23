@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314908969350",
+    "firebase_url": "https://bid2winapplication.firebaseio.com",
+    "project_id": "bid2winapplication",
+    "storage_bucket": "bid2winapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314908969350:android:bc7cdd4c9fac47ec834407",
+        "android_client_info": {
+          "package_name": "com.example.BidAnd2Win"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314908969350-p9kpolnu6ihdf55ob446fore9oo45urr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbvlIayLOR953Civje6qaQGvTjkA2n3A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314908969350-p9kpolnu6ihdf55ob446fore9oo45urr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
