@@ -1,16 +1,3 @@
 # BidAnd2Win
+Bid2Win is an application for youngsters to win the prizes by bidding on the product. For example if there is product their “Pendrive” many users used to bid on the product from number 0.00 to 100.100. The user wins the product who have the first unique bids  from every user. Like if I have selected the bid for 0.00 then if any other user bid on 0.00 then this not the unique bid for those users, like if 00.01 is if the second number which is selected by only one user and it is the first and nearest number to 00.00 then according to the period then user win the product. It is very interesting game used to win exciting prizes every day.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
